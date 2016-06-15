@@ -1,14 +1,15 @@
 # Ember Mirage Example
 
-Samples demonstrating usage of ember-cli-mirage 
+Project demonstrating usage of ember-cli-mirage 
 
 ## How to use 
 Assuming you already have ember-cli >=2.0.0 installed 
-clone this repo and install all the dependencies:
+clone this repo and install all dependencies:
 ```sh
 git clone https://github.com/0000marcell/ember-cli-mirage-example
 cd ember-cli-mirage-example
-npm install && bower install
+npm install 
+bower install
 ```
 
 Run the tests(everything should be green)
