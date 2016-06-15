@@ -1,0 +1,4 @@
+cp package.json from ember-cli-mirage-example-2 
+cp app/* mirage/* and tests/* from ember-cli-mirage-example-2
+run everything and push to github
+then test the cloned version on your machine

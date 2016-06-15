@@ -1,0 +1,9 @@
+<ul>
+	{{#each model as |author|}}
+		<li>
+			<p>{{author.name}}</p>
+			<button id='delete' {{action 'deleteAuthor' author}}>Delete</button>
+		</li>
+	{{/each}}
+</ul>
+{{outlet}}
